@@ -1,1 +1,0 @@
-coin_marketcap_api_key = 'd321f8fd-b534-44e3-884a-cfdb0bb4a892'
